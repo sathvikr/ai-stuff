@@ -1,0 +1,76 @@
+ * V4?
+   * y
+     * V11?
+       * y
+         * V2?
+           * y
+             * V3?
+               * y
+                 * V5?
+                   * y --> democrat
+                   * n --> republican
+               * n
+                 * V5?
+                   * y
+                     * V13?
+                       * y
+                         * V1?
+                           * y
+                             * V16?
+                               * y
+                                 * V6?
+                                   * y --> democrat
+                               * n --> republican
+                           * n --> republican
+                       * n --> democrat
+                   * n --> democrat
+           * n --> republican
+       * n
+         * V15?
+           * y
+             * V10?
+               * y --> republican
+               * n
+                 * V7?
+                   * y --> republican
+                   * n
+                     * V12?
+                       * y --> republican
+                       * n --> democrat
+           * n --> republican
+   * n
+     * V14?
+       * y
+         * V11?
+           * y --> democrat
+           * n
+             * V7?
+               * y
+                 * V5?
+                   * y
+                     * V1?
+                       * y --> democrat
+                       * n
+                         * V6?
+                           * y
+                             * V12?
+                               * y --> democrat
+                               * n
+                                 * V2?
+                                   * y
+                                     * V8?
+                                       * y --> republican
+                                   * n --> republican
+                           * n --> democrat
+                   * n
+                     * V3?
+                       * y --> democrat
+                       * n
+                         * V1?
+                           * y
+                             * V6?
+                               * y --> democrat
+                               * n --> republican
+                           * n --> democrat
+               * n --> democrat
+       * n --> democrat
